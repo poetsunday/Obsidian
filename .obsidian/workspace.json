@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "bd1ca2e6def1c1d3",
+    "id": "0969af513bcd56fc",
     "type": "split",
     "children": [
       {
-        "id": "721a92c98dcecc53",
+        "id": "a2f994ce24d2250b",
         "type": "tabs",
         "children": [
           {
-            "id": "2c7407bf8d2ca3c4",
+            "id": "4c736ffcec622c20",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/2024-06-03.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "247359a3f84381bd",
+    "id": "55b5df59f0b78f2b",
     "type": "split",
     "children": [
       {
-        "id": "6d9ae80b2013f960",
+        "id": "5ef4f0e0ddce2cf7",
         "type": "tabs",
         "children": [
           {
-            "id": "90f177e61108339c",
+            "id": "6cda983c656c9a80",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "05edbb0a00254d3c",
+            "id": "3a89b5a17a185e93",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "caabf90909762e59",
+            "id": "3dbd6a7899a0c7be",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 300
   },
   "right": {
-    "id": "fbdfcadb5e2d7f5c",
+    "id": "fa96fe87814677a5",
     "type": "split",
     "children": [
       {
-        "id": "ca80396283b76414",
+        "id": "e3b7971362dc1bfc",
         "type": "tabs",
         "children": [
           {
-            "id": "ea467daa6bc9ebd9",
+            "id": "c448466d5db15efa",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2024-06-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "33b0ac1ffb348957",
+            "id": "bbd4feee8eb4d608",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2024-06-03.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "19864b9079586d41",
+            "id": "6c804888002439b1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,21 +114,21 @@
             }
           },
           {
-            "id": "6dd2880ee37a532d",
+            "id": "cf3f3ef143e2b286",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2024-06-03.md"
+                "file": "2024-06-03.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,21 +137,11 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "2c7407bf8d2ca3c4",
+  "active": "6cda983c656c9a80",
   "lastOpenFiles": [
-    "README.md",
-    "Web Development/Understanding HTML tags and Elements.md",
-    "Web Development/index.html.md",
-    "Web Development",
-    "Journal/2024-06-03.md",
-    "Journal/2024-06-02.md",
-    "Journal",
-    "Untitled",
-    "2024-06-02.md",
-    "Untitled.canvas"
+    "2024-06-03.md"
   ]
 }
