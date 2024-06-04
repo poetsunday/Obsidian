@@ -4,22 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "721a92c98dcecc53",
+        "id": "539500eee7a9710c",
         "type": "tabs",
         "children": [
           {
-            "id": "ead15147efe403ed",
+            "id": "55aaa11cc23d3be4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2024-06-03.md",
+                "file": "AI - OpenAI/Create LLM from Hugging Face for Ollama.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea9900eead6c8309",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "2176c79253b41841",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DR Documents/Chicoutimi - Scope.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2024-06-03.md",
+                "file": "DR Documents/Chicoutimi - Scope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2024-06-03.md",
+                "file": "DR Documents/Chicoutimi - Scope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2024-06-03.md"
+                "file": "DR Documents/Chicoutimi - Scope.md"
               }
             }
           }
@@ -148,15 +169,22 @@
   },
   "active": "90f177e61108339c",
   "lastOpenFiles": [
+    "DR Documents/Chicoutimi - Scope.md",
+    "Untitled",
+    "README.md",
+    "AI - OpenAI",
+    "AI - OpenAI/GPU on  Linux - Ubuntu.md",
+    "AI - OpenAI/Create LLM from Hugging Face for Ollama.md",
+    "Journal/2024-06-04.md",
+    "AI - OpenAI/Ollama - Docker.md",
+    "Journal/2024-06-03.md",
     "Journal",
     "Journal/2024-06-02.md",
-    "Journal/2024-06-03.md",
-    "Untitled",
+    "Posts",
     "Untitled.canvas",
     "Web Development/Understanding HTML tags and Elements.md",
     "DR Documents",
     "Web Development/index.html.md",
-    "Web Development",
-    "README.md"
+    "Web Development"
   ]
 }
