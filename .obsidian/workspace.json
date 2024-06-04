@@ -1,9 +1,10 @@
 {
   "main": {
-    "id": "bd1ca2e6def1c1d3",
+    "id": "0969af513bcd56fc",
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "539500eee7a9710c",
         "type": "tabs",
         "children": [
@@ -37,6 +38,17 @@
                 "mode": "source",
                 "source": false
               }
+=======
+        "id": "a2f994ce24d2250b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c736ffcec622c20",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+>>>>>>> 9c1e660891f33e62afd7485146c42fc40ef9538e
             }
           }
         ],
@@ -46,15 +58,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "247359a3f84381bd",
+    "id": "55b5df59f0b78f2b",
     "type": "split",
     "children": [
       {
-        "id": "6d9ae80b2013f960",
+        "id": "5ef4f0e0ddce2cf7",
         "type": "tabs",
         "children": [
           {
-            "id": "90f177e61108339c",
+            "id": "6cda983c656c9a80",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -64,7 +76,7 @@
             }
           },
           {
-            "id": "05edbb0a00254d3c",
+            "id": "3a89b5a17a185e93",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -79,7 +91,7 @@
             }
           },
           {
-            "id": "caabf90909762e59",
+            "id": "3dbd6a7899a0c7be",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -90,23 +102,26 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 300
   },
   "right": {
-    "id": "fbdfcadb5e2d7f5c",
+    "id": "fa96fe87814677a5",
     "type": "split",
     "children": [
       {
-        "id": "ca80396283b76414",
+        "id": "e3b7971362dc1bfc",
         "type": "tabs",
         "children": [
           {
-            "id": "ea467daa6bc9ebd9",
+            "id": "c448466d5db15efa",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "DR Documents/Chicoutimi - Scope.md",
+=======
+>>>>>>> 9c1e660891f33e62afd7485146c42fc40ef9538e
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,19 +133,22 @@
             }
           },
           {
-            "id": "33b0ac1ffb348957",
+            "id": "bbd4feee8eb4d608",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "DR Documents/Chicoutimi - Scope.md",
+=======
+>>>>>>> 9c1e660891f33e62afd7485146c42fc40ef9538e
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "19864b9079586d41",
+            "id": "6c804888002439b1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -141,12 +159,16 @@
             }
           },
           {
-            "id": "6dd2880ee37a532d",
+            "id": "cf3f3ef143e2b286",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "DR Documents/Chicoutimi - Scope.md"
+=======
+                "file": "2024-06-03.md"
+>>>>>>> 9c1e660891f33e62afd7485146c42fc40ef9538e
               }
             }
           }
@@ -154,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,12 +186,12 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-importer:Open Importer": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "90f177e61108339c",
+  "active": "6cda983c656c9a80",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "DR Documents/Chicoutimi - Scope.md",
     "Untitled",
     "README.md",
@@ -186,5 +209,8 @@
     "DR Documents",
     "Web Development/index.html.md",
     "Web Development"
+=======
+    "2024-06-03.md"
+>>>>>>> 9c1e660891f33e62afd7485146c42fc40ef9538e
   ]
 }
