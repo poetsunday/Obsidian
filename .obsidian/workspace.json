@@ -1,72 +1,35 @@
 {
   "main": {
-    "id": "0969af513bcd56fc",
+    "id": "1ea91ac43dbdbe45",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "539500eee7a9710c",
+        "id": "f3a5ecd5b163321b",
         "type": "tabs",
         "children": [
           {
-            "id": "55aaa11cc23d3be4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI - OpenAI/Create LLM from Hugging Face for Ollama.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea9900eead6c8309",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "2176c79253b41841",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DR Documents/Chicoutimi - Scope.md",
-                "mode": "source",
-                "source": false
-              }
-=======
-        "id": "a2f994ce24d2250b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4c736ffcec622c20",
+            "id": "5b0a718075535b08",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
->>>>>>> 9c1e660891f33e62afd7485146c42fc40ef9538e
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "55b5df59f0b78f2b",
+    "id": "7ec861cdaa2b0239",
     "type": "split",
     "children": [
       {
-        "id": "5ef4f0e0ddce2cf7",
+        "id": "a625b6cb3d9dcfd7",
         "type": "tabs",
         "children": [
           {
-            "id": "6cda983c656c9a80",
+            "id": "828de91b3e847017",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -76,7 +39,7 @@
             }
           },
           {
-            "id": "3a89b5a17a185e93",
+            "id": "abe8e96a32ba2c01",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -91,7 +54,7 @@
             }
           },
           {
-            "id": "3dbd6a7899a0c7be",
+            "id": "75708b4babba686c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -102,53 +65,47 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.5
   },
   "right": {
-    "id": "fa96fe87814677a5",
+    "id": "69584099d91243d0",
     "type": "split",
     "children": [
       {
-        "id": "e3b7971362dc1bfc",
+        "id": "a568a7d049df71a9",
         "type": "tabs",
         "children": [
           {
-            "id": "c448466d5db15efa",
+            "id": "80a97c87958bc5ad",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "DR Documents/Chicoutimi - Scope.md",
-=======
->>>>>>> 9c1e660891f33e62afd7485146c42fc40ef9538e
+                "file": "DR Documents/Pasted Image 20240605080127_276.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "bbd4feee8eb4d608",
+            "id": "994b1c09e399af01",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "DR Documents/Chicoutimi - Scope.md",
-=======
->>>>>>> 9c1e660891f33e62afd7485146c42fc40ef9538e
+                "file": "DR Documents/Pasted Image 20240605080127_276.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "6c804888002439b1",
+            "id": "fa21d31e772b89cb",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -159,25 +116,21 @@
             }
           },
           {
-            "id": "cf3f3ef143e2b286",
+            "id": "045ddd14c98459c4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "DR Documents/Chicoutimi - Scope.md"
-=======
-                "file": "2024-06-03.md"
->>>>>>> 9c1e660891f33e62afd7485146c42fc40ef9538e
+                "file": "DR Documents/Pasted Image 20240605080127_276.jpg"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,31 +139,39 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-projects:Open projects": false,
+      "excel:Create Excel File": false
     }
   },
-  "active": "6cda983c656c9a80",
+  "active": "828de91b3e847017",
   "lastOpenFiles": [
-<<<<<<< HEAD
+    "Journal/2024-06-05.md",
+    "Posts/Shodan - Web application.md",
     "DR Documents/Chicoutimi - Scope.md",
-    "Untitled",
+    "Password Managers.md",
+    "CompTIA Security+ (SY0-701)/Asset and Change Management/Asset Disposal and Decommissioning.md",
+    "CompTIA Security+ (SY0-701)/Asset and Change Management/Asset Management.md",
+    "To Do.md",
+    "CompTIA Security+ (SY0-701)/Asset and Change Management/Mobile Asset Deployment.md",
+    "CompTIA Security+ (SY0-701)/Asset and Change Management/Acquisition and Procurement.md",
+    "CompTIA Security+ (SY0-701)/Asset and Change Management/Asset and Change Management.md",
+    "CompTIA Security+ (SY0-701)/Governance and Compliance/Governance.md",
+    "CompTIA Security+ (SY0-701)/Asset and Change Management",
+    "CompTIA Security+ (SY0-701)/Governance and Compliance/Standards.md",
+    "CompTIA Security+ (SY0-701)/Governance and Compliance/Procedures.md",
+    "CompTIA Security+ (SY0-701)/Governance and Compliance/Policies.md",
+    "CompTIA Security+ (SY0-701)/Governance and Compliance/Governance and Compliance.md",
+    "CompTIA Security+ (SY0-701)/Governance and Compliance",
+    "CompTIA Security+ (SY0-701)",
+    "DR Documents/DAYROSS_Printer_Assets.md",
+    "Excel 2024-06-05 08.46.53.sheet.md",
+    "DR Documents/UPS - Assets.md",
+    "Excalidraw/Drawing 2024-06-05 07.59.12.excalidraw.md",
+    "DR Documents/Pasted Image 20240605080127_276.jpg",
     "README.md",
-    "AI - OpenAI",
-    "AI - OpenAI/GPU on  Linux - Ubuntu.md",
-    "AI - OpenAI/Create LLM from Hugging Face for Ollama.md",
-    "Journal/2024-06-04.md",
-    "AI - OpenAI/Ollama - Docker.md",
-    "Journal/2024-06-03.md",
-    "Journal",
-    "Journal/2024-06-02.md",
-    "Posts",
-    "Untitled.canvas",
-    "Web Development/Understanding HTML tags and Elements.md",
-    "DR Documents",
-    "Web Development/index.html.md",
-    "Web Development"
-=======
-    "2024-06-03.md"
->>>>>>> 9c1e660891f33e62afd7485146c42fc40ef9538e
+    "UPS - Inventory.md",
+    "Excalidraw"
   ]
 }
