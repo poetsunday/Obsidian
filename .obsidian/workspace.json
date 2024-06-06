@@ -11,8 +11,12 @@
             "id": "5b0a718075535b08",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024-06-06.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DR Documents/Pasted Image 20240605080127_276.jpg",
+                "file": "2024-06-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DR Documents/Pasted Image 20240605080127_276.jpg",
+                "file": "2024-06-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DR Documents/Pasted Image 20240605080127_276.jpg"
+                "file": "2024-06-06.md"
               }
             }
           }
@@ -145,8 +149,10 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "828de91b3e847017",
+  "active": "5b0a718075535b08",
   "lastOpenFiles": [
+    "2024-06-05.md",
+    "2024-06-06.md",
     "Journal/2024-06-05.md",
     "Posts/Shodan - Web application.md",
     "DR Documents/Chicoutimi - Scope.md",
