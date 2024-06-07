@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "b87a0082a6018f40",
+    "id": "a1a8b3c542ed5632",
     "type": "split",
     "children": [
       {
-        "id": "44a0d03582037f78",
+        "id": "df8cf4ef02ecd2bb",
         "type": "tabs",
         "children": [
           {
-            "id": "f81718de0847f7c1",
+            "id": "5e6d0a18a391bb6c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-06-05.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4d209ba6cc594240",
+    "id": "30cd864c528f4ae8",
     "type": "split",
     "children": [
       {
-        "id": "d0e66d4f0e27779f",
+        "id": "8950d3cbd66202eb",
         "type": "tabs",
         "children": [
           {
-            "id": "1cb85d0e2afc4728",
+            "id": "395512c90bed7004",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "0f14369da3392a2f",
+            "id": "e0711838d40d34fb",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "948a37b09049031a",
+            "id": "afaf79d075bc5c38",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +68,20 @@
     "width": 300
   },
   "right": {
-    "id": "f2b1eece509ec080",
+    "id": "4e092122bd41b9e1",
     "type": "split",
     "children": [
       {
-        "id": "6f4426936ce95ead",
+        "id": "437b9bbc590b7735",
         "type": "tabs",
         "children": [
           {
-            "id": "ddd0bf3c79df7cd4",
+            "id": "a8aa46c820ae977c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-06-05.md",
+                "file": "2024-06-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +93,19 @@
             }
           },
           {
-            "id": "87bd6871ebc6d69f",
+            "id": "b952586e5ad63bed",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-06-05.md",
+                "file": "2024-06-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "749ef784796bd03c",
+            "id": "ee2198abef84cc65",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +116,12 @@
             }
           },
           {
-            "id": "5d0bdec56b1f7c92",
+            "id": "97d94a3addcd94b5",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-06-05.md"
+                "file": "2024-06-06.md"
               }
             }
           }
@@ -138,6 +134,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-projects:Open projects": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "excel:Create Excel File": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -146,6 +145,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f81718de0847f7c1",
+  "active": "395512c90bed7004",
   "lastOpenFiles": []
 }
