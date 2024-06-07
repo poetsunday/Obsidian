@@ -1,72 +1,39 @@
 {
   "main": {
-    "id": "0969af513bcd56fc",
+    "id": "b87a0082a6018f40",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "539500eee7a9710c",
+        "id": "44a0d03582037f78",
         "type": "tabs",
         "children": [
           {
-            "id": "55aaa11cc23d3be4",
+            "id": "f81718de0847f7c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI - OpenAI/Create LLM from Hugging Face for Ollama.md",
+                "file": "2024-06-05.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "ea9900eead6c8309",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "2176c79253b41841",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DR Documents/Chicoutimi - Scope.md",
-                "mode": "source",
-                "source": false
-              }
-=======
-        "id": "a2f994ce24d2250b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4c736ffcec622c20",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
->>>>>>> 9c1e660891f33e62afd7485146c42fc40ef9538e
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "55b5df59f0b78f2b",
+    "id": "4d209ba6cc594240",
     "type": "split",
     "children": [
       {
-        "id": "5ef4f0e0ddce2cf7",
+        "id": "d0e66d4f0e27779f",
         "type": "tabs",
         "children": [
           {
-            "id": "6cda983c656c9a80",
+            "id": "1cb85d0e2afc4728",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -76,7 +43,7 @@
             }
           },
           {
-            "id": "3a89b5a17a185e93",
+            "id": "0f14369da3392a2f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -91,7 +58,7 @@
             }
           },
           {
-            "id": "3dbd6a7899a0c7be",
+            "id": "948a37b09049031a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -105,23 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "fa96fe87814677a5",
+    "id": "f2b1eece509ec080",
     "type": "split",
     "children": [
       {
-        "id": "e3b7971362dc1bfc",
+        "id": "6f4426936ce95ead",
         "type": "tabs",
         "children": [
           {
-            "id": "c448466d5db15efa",
+            "id": "ddd0bf3c79df7cd4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "DR Documents/Chicoutimi - Scope.md",
-=======
->>>>>>> 9c1e660891f33e62afd7485146c42fc40ef9538e
+                "file": "2024-06-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,22 +97,19 @@
             }
           },
           {
-            "id": "bbd4feee8eb4d608",
+            "id": "87bd6871ebc6d69f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "DR Documents/Chicoutimi - Scope.md",
-=======
->>>>>>> 9c1e660891f33e62afd7485146c42fc40ef9538e
+                "file": "2024-06-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "6c804888002439b1",
+            "id": "749ef784796bd03c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -159,16 +120,12 @@
             }
           },
           {
-            "id": "cf3f3ef143e2b286",
+            "id": "5d0bdec56b1f7c92",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "DR Documents/Chicoutimi - Scope.md"
-=======
-                "file": "2024-06-03.md"
->>>>>>> 9c1e660891f33e62afd7485146c42fc40ef9538e
+                "file": "2024-06-05.md"
               }
             }
           }
@@ -189,28 +146,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6cda983c656c9a80",
-  "lastOpenFiles": [
-<<<<<<< HEAD
-    "DR Documents/Chicoutimi - Scope.md",
-    "Untitled",
-    "README.md",
-    "AI - OpenAI",
-    "AI - OpenAI/GPU on  Linux - Ubuntu.md",
-    "AI - OpenAI/Create LLM from Hugging Face for Ollama.md",
-    "Journal/2024-06-04.md",
-    "AI - OpenAI/Ollama - Docker.md",
-    "Journal/2024-06-03.md",
-    "Journal",
-    "Journal/2024-06-02.md",
-    "Posts",
-    "Untitled.canvas",
-    "Web Development/Understanding HTML tags and Elements.md",
-    "DR Documents",
-    "Web Development/index.html.md",
-    "Web Development"
-=======
-    "2024-06-03.md"
->>>>>>> 9c1e660891f33e62afd7485146c42fc40ef9538e
-  ]
+  "active": "f81718de0847f7c1",
+  "lastOpenFiles": []
 }
