@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "a1a8b3c542ed5632",
+    "id": "8aad291468840c5b",
     "type": "split",
     "children": [
       {
-        "id": "df8cf4ef02ecd2bb",
+        "id": "62b91d9e60ab8fbe",
         "type": "tabs",
         "children": [
           {
-            "id": "5e6d0a18a391bb6c",
+            "id": "28129ae0e0bd8db2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "30cd864c528f4ae8",
+    "id": "765e93719ca46ffa",
     "type": "split",
     "children": [
       {
-        "id": "8950d3cbd66202eb",
+        "id": "ffd2c7ca8c54dec0",
         "type": "tabs",
         "children": [
           {
-            "id": "395512c90bed7004",
+            "id": "aeec33c081f3e460",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "e0711838d40d34fb",
+            "id": "73662a484bf27860",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "afaf79d075bc5c38",
+            "id": "2cfb205498f9b204",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,15 +72,15 @@
     "width": 300
   },
   "right": {
-    "id": "4e092122bd41b9e1",
+    "id": "06491ee4d219e4c8",
     "type": "split",
     "children": [
       {
-        "id": "437b9bbc590b7735",
+        "id": "911d147683a873d0",
         "type": "tabs",
         "children": [
           {
-            "id": "a8aa46c820ae977c",
+            "id": "98b6c62ecede51fa",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -97,7 +97,7 @@
             }
           },
           {
-            "id": "b952586e5ad63bed",
+            "id": "3cb87be7500a668d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -109,7 +109,7 @@
             }
           },
           {
-            "id": "ee2198abef84cc65",
+            "id": "3f32a4e36623b32c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,7 +120,7 @@
             }
           },
           {
-            "id": "97d94a3addcd94b5",
+            "id": "e9f4841db32679fc",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -138,8 +138,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-projects:Open projects": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-projects:Open projects": false,
       "excel:Create Excel File": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -149,8 +149,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e6d0a18a391bb6c",
+  "active": "28129ae0e0bd8db2",
   "lastOpenFiles": [
+    "Journal/2024-06-06.md",
     "2024-06-07.md"
   ]
 }
