@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-06-07.md",
+                "file": "2024-06-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-06-07.md",
+                "file": "2024-06-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-06-07.md",
+                "file": "2024-06-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-06-07.md"
+                "file": "2024-06-08.md"
               }
             }
           }
@@ -164,8 +164,9 @@
   },
   "active": "873373d0903c07d0",
   "lastOpenFiles": [
+    "Journal/2024-06-07.md",
+    "2024-06-08.md",
     "README.md",
-    "2024-06-07.md",
     "Single Network Device - Template.md",
     "Devices Security Audit.md",
     "Posts/Password Managers.md",
