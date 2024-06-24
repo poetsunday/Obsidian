@@ -17,3 +17,6 @@ Overall, this conversation highlights the importance of being aware of one's onl
 
 Osint Vault: [https://github.com/webbreacher]
 
+Spiderfoot ???
+
+
