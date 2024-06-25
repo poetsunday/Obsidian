@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DR Documents/Printer Setup.md",
+                "file": "Journal/2024-06-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "06491ee4d219e4c8",
@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Journal/2024-06-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Journal/2024-06-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,11 +124,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Journal/2024-06-25.md"
+              }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -148,24 +152,33 @@
   },
   "active": "aeec33c081f3e460",
   "lastOpenFiles": [
-    "DR Documents/Printer Setup.md",
-    "DR Documents/DAYROSS_Printer_Assets.md",
-    "DR Documents/UPS - Assets.md",
-    "2024-06-25.md",
-    "DR Documents/Devices Security Audit.md",
-    "DR Documents/Single Network Device - Template.md",
-    "2024-06-24.md",
-    "OSINT- Open Source Intelligence/Osint.md",
-    "DR Documents/From Plant Display Computers.md",
-    "2024-06-13.md",
-    "CompTIA Security+ (SY0-701)/Governance and Compliance/Governance and Compliance.md",
-    "DR Documents/Chicoutimi - Scope.md",
-    "DR Documents/Pasted Image 20240605080127_276.jpg",
-    "Posts/Password Managers.md",
-    "Journal/2024-06-08.md",
+    "Journal/2024-06-05.md",
+    "Journal/2024-06-25.md",
+    "Journal/2024-06-03.md",
+    "Journal/2024-06-04.md",
+    "Journal/2024-06-06.md",
     "Journal/2024-06-07.md",
-    "README.md",
+    "Journal/2024-06-08.md",
+    "Journal/2024-06-02.md",
+    "CompTIA Security+ (SY0-701)/Asset and Change Management/Mobile Asset Deployment.md",
+    "CompTIA Security+ (SY0-701)/Asset and Change Management/Asset Management.md",
+    "CompTIA Security+ (SY0-701)/Asset and Change Management/Asset Disposal and Decommissioning.md",
+    "CompTIA Security+ (SY0-701)/Asset and Change Management/Asset and Change Management.md",
+    "CompTIA Security+ (SY0-701)/Asset and Change Management/Acquisition and Procurement.md",
+    "AI - OpenAI/Ollama - Docker.md",
+    "Posts/Password Managers.md",
     "Posts/Shodan - Web application.md",
-    "Journal/2024-06-06.md"
+    "AI - OpenAI/GPU on  Linux - Ubuntu.md",
+    "AI - OpenAI/Create LLM from Hugging Face for Ollama.md",
+    "OSINT- Open Source Intelligence/Osint.md",
+    "DR Documents/Printer Setup.md",
+    "DR Documents/Devices Security Audit.md",
+    "DR Documents/From Plant Display Computers.md",
+    "DR Documents/Chicoutimi - Scope.md",
+    "DR Documents/Single Network Device - Template.md",
+    "2024-07-09.md",
+    "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
+    "Projects - Demo Project",
+    "DR Documents/Pasted Image 20240605080127_276.jpg"
   ]
 }

@@ -15,3 +15,5 @@ Lastly, educate employees on the importance of proper asset usage and care. Enco
 By following these steps and prioritizing effective asset monitoring and tracking processes, your organization can optimize the utilization of its resources while minimizing potential risks and maximizing overall efficiency.
 
 [[Acquisition and Procurement]]
+
+#Assets #infosec #security 

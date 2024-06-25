@@ -5,3 +5,5 @@ Certification processes provide evidence that the sanitization, disposal, or des
 Remember, the more data is stored, the more it needs to be secured. Following standardized procedures like those outlined by NIST can help ensure assets are properly handled throughout their lifecycle, increasing compliance, protecting organizational integrity, and maintaining reputational standing.
 
 [[Asset Management]]
+
+#Assets #infosec #security 

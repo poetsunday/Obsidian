@@ -13,3 +13,4 @@ This section covers asset and change management in cybersecurity, emphasizing th
 3. Asset management in cybersecurity includes assignment and accounting, monitoring, tracking, ensuring a rigorous system of asset inventory checks and enumeration.
 4. Asset disposal and decommissioning involve sanitization, destruction, certification, data retention policies to minimize risk of unauthorized access or data breaches.
 5. Change management in cybersecurity is crucial for maintaining the integrity and security of systems; it involves strict approval processes, maintenance windows, thorough impact analysis.
+#Assets #infosec #security 

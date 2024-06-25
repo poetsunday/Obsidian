@@ -76,3 +76,6 @@ More models can be found on the [Ollama library⁠](https://ollama.com/library)
 [htt[[Create LLM from Hugging Face for Ollama]]
 
 ps://github.com/ollama/ollama⁠](https://github.com/ollama/ollama)
+
+
+#ai #opensource 

@@ -21,3 +21,4 @@ Run the model
 ollama run example
 [[Ollama - Docker]]
 
+#ai #opensource

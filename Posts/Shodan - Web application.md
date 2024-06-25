@@ -4,3 +4,5 @@ One important thing to note when using Shodan is that the data may be a few week
 
 Despite these limitations, Shodan is an essential tool for both hackers and cybersecurity professionals to identify potential targets or vulnerabilities in systems. It helps paint a picture of the global landscape of connected devices and can aid in identifying areas that need attention or further investigation.
 
+#opensource #hacker #infosec 
+

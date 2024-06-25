@@ -1,6 +1,127 @@
 {
   "version": 2,
-  "projects": [],
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Projects - Demo Project",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "name": {
+                "width": 360
+              },
+              "path": {
+                "hide": true
+              },
+              "image": {
+                "width": 314
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "name": "Table",
+          "id": "14739a60-2213-45c3-8085-aa84670711aa",
+          "type": "table"
+        },
+        {
+          "config": {
+            "groupByField": "status",
+            "orderSyncField": "weight",
+            "columns": {
+              "Backlog": {
+                "records": [
+                  "Projects - Demo Project/Test.md",
+                  "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
+                  "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md"
+                ]
+              },
+              "No status": {
+                "records": []
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "name": "Board",
+          "id": "adee222d-d5af-4b49-85b8-0c77e71e76d1",
+          "type": "board"
+        },
+        {
+          "config": {
+            "interval": "month",
+            "dateField": "due",
+            "checkField": "published"
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "name": "Calendar",
+          "id": "94b23411-a9d8-48bd-b853-10e861d5c9b5",
+          "type": "calendar"
+        },
+        {
+          "config": {
+            "coverField": "image",
+            "includeFields": [
+              "image"
+            ]
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "name": "Gallery",
+          "id": "4b0f5623-a582-4b78-b1fd-ab666b2283ff",
+          "type": "gallery"
+        }
+      ],
+      "name": "Demo project",
+      "id": "70f4e1b4-f7f3-4e65-b0f3-663b6314f400",
+      "path": "Projects - Demo Project"
+    }
+  ],
   "archives": [],
   "preferences": {
     "projectSizeLimit": 1000,

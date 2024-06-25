@@ -9,3 +9,6 @@ The third model, CYOD, offers a middle ground between BYOD and COPE. Employees g
 Each model has its advantages and drawbacks. The best option depends on the organization's specific needs, budget constraints, and risk appetite. Cost, security, and employee satisfaction should be considered when making a decision.
 
 [[Acquisition and Procurement]]t
+
+#Assets #infosec #security 
+
