@@ -4,30 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "62b91d9e60ab8fbe",
+        "id": "e51e92c987063cab",
         "type": "tabs",
         "children": [
           {
-            "id": "9f38c98fe9b47986",
+            "id": "9d5a7258eee688a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-06-24.md",
+                "file": "2024-06-25.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "10061e5c8df5c6ea",
+            "id": "9e07d99de6edd8a4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excel-view",
               "state": {
-                "file": "OSINT- Open Source Intelligence/Osint.md",
-                "mode": "source",
-                "source": false
+                "file": "DR Documents/UPS - Assets.md"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSINT- Open Source Intelligence/Osint.md",
+                "file": "DR Documents/UPS - Assets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSINT- Open Source Intelligence/Osint.md",
+                "file": "DR Documents/UPS - Assets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,16 +136,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT- Open Source Intelligence/Osint.md"
+                "file": "DR Documents/UPS - Assets.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,23 +161,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10061e5c8df5c6ea",
+  "active": "9e07d99de6edd8a4",
   "lastOpenFiles": [
+    "2024-06-25.md",
+    "DR Documents/Devices Security Audit.md",
+    "DR Documents/Single Network Device - Template.md",
+    "DR Documents/DAYROSS_Printer_Assets.md",
+    "DR Documents/UPS - Assets.md",
+    "DR Documents/Printer Setup.md",
     "2024-06-24.md",
     "OSINT- Open Source Intelligence/Osint.md",
     "DR Documents/From Plant Display Computers.md",
     "2024-06-13.md",
     "CompTIA Security+ (SY0-701)/Governance and Compliance/Governance and Compliance.md",
-    "DR Documents/UPS - Assets.md",
-    "Devices Security Audit.md",
     "DR Documents/Chicoutimi - Scope.md",
-    "DR Documents/DAYROSS_Printer_Assets.md",
     "DR Documents/Pasted Image 20240605080127_276.jpg",
     "Posts/Password Managers.md",
     "Journal/2024-06-08.md",
     "Journal/2024-06-07.md",
     "README.md",
-    "Single Network Device - Template.md",
     "Posts/Shodan - Web application.md",
     "Journal/2024-06-06.md"
   ]
