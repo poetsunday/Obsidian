@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e51e92c987063cab",
+        "id": "3975ca8ee27db55d",
         "type": "tabs",
         "children": [
           {
-            "id": "9d5a7258eee688a9",
+            "id": "86a107893ebc2742",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-06-25.md",
+                "file": "DR Documents/Printer Setup.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "9e07d99de6edd8a4",
-            "type": "leaf",
-            "state": {
-              "type": "excel-view",
-              "state": {
-                "file": "DR Documents/UPS - Assets.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DR Documents/UPS - Assets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DR Documents/UPS - Assets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DR Documents/UPS - Assets.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -161,14 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e07d99de6edd8a4",
+  "active": "aeec33c081f3e460",
   "lastOpenFiles": [
+    "DR Documents/Printer Setup.md",
+    "DR Documents/DAYROSS_Printer_Assets.md",
+    "DR Documents/UPS - Assets.md",
     "2024-06-25.md",
     "DR Documents/Devices Security Audit.md",
     "DR Documents/Single Network Device - Template.md",
-    "DR Documents/DAYROSS_Printer_Assets.md",
-    "DR Documents/UPS - Assets.md",
-    "DR Documents/Printer Setup.md",
     "2024-06-24.md",
     "OSINT- Open Source Intelligence/Osint.md",
     "DR Documents/From Plant Display Computers.md",
