@@ -6,5 +6,8 @@
   "periodic-notes",
   "obsidian-rollover-daily-todos",
   "obsidian-dictionary-plugin",
-  "media-extended"
+  "media-extended",
+  "obsidian-importer",
+  "obsidian-git",
+  "quickadd"
 ]

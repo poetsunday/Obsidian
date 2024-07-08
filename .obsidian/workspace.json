@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3975ca8ee27db55d",
+        "id": "a479426e61a45c66",
         "type": "tabs",
         "children": [
           {
-            "id": "86a107893ebc2742",
+            "id": "2d3e5221762665aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2024-06-25.md",
+                "file": "2024-06-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2024-06-25.md",
+                "file": "2024-06-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2024-06-25.md",
+                "file": "2024-06-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,35 +125,45 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2024-06-25.md"
+                "file": "2024-06-26.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-projects:Open projects": false,
-      "excel:Create Excel File": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "media-extended:Open media": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "excel:Create Excel File": false,
+      "media-extended:Open media": false,
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "aeec33c081f3e460",
+  "active": "2d3e5221762665aa",
   "lastOpenFiles": [
-    "Journal/2024-06-05.md",
+    "2024-06-26.md",
+    "DR Documents/Projects/Testing New Note.md",
+    "DR Documents/Projects/SCTASK0202893.md",
+    "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
+    "DR Documents/Projects/Project-Template/test.md",
+    "DR Documents/Projects/Project-Template/Tasks.md",
     "Journal/2024-06-25.md",
+    "Untitled",
+    "DR Documents/Projects/Project-Template",
+    "DR Documents/Projects",
+    "Journal/2024-06-05.md",
     "Journal/2024-06-03.md",
     "Journal/2024-06-04.md",
     "Journal/2024-06-06.md",
@@ -172,12 +182,6 @@
     "AI - OpenAI/Create LLM from Hugging Face for Ollama.md",
     "OSINT- Open Source Intelligence/Osint.md",
     "DR Documents/Printer Setup.md",
-    "DR Documents/Devices Security Audit.md",
-    "DR Documents/From Plant Display Computers.md",
-    "DR Documents/Chicoutimi - Scope.md",
-    "DR Documents/Single Network Device - Template.md",
-    "2024-07-09.md",
-    "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
     "Projects - Demo Project",
     "DR Documents/Pasted Image 20240605080127_276.jpg"
   ]

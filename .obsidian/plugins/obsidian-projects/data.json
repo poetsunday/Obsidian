@@ -28,7 +28,16 @@
               "image": {
                 "width": 314
               }
-            }
+            },
+            "orderFields": [
+              "name",
+              "due",
+              "image",
+              "published",
+              "status",
+              "tags",
+              "weight"
+            ]
           },
           "filter": {
             "conjunction": "and",
@@ -120,6 +129,260 @@
       "name": "Demo project",
       "id": "70f4e1b4-f7f3-4e65-b0f3-663b6314f400",
       "path": "Projects - Demo Project"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "DR Documents/Projects/Project-Template",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "3a1aa098-e2c6-4a55-a656-fd15deb83dc7",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "8f6ca551-9c93-4a0e-9dfc-bb1df7d19387",
+      "name": "Project-Template"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "DR Documents/Projects/Project-Template",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "9905f948-35ef-4d41-8b61-e995f4ac6f95",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "12d160e9-4551-4969-b1c7-6857e20dd9af",
+      "name": "Project-Template"
+    },
+    {
+      "fieldConfig": {
+        "name": {
+          "richText": true,
+          "options": []
+        }
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "DR Documents/Projects/Project-Template",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "width": 263
+              },
+              "Block": {
+                "hide": false
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "99bf7bdd-2d05-40a4-b0f2-664b5feb2746",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "adfa2258-64ae-44b7-acd8-7960014ee131",
+      "name": "Project-Template"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Projects - Demo Project",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "abe30e2c-846f-4275-b5e3-ae7b7f7e8eb1",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "34d2d9e9-9623-436f-b9ce-1bd594c11e94",
+      "name": "Projects - Demo Project"
+    },
+    {
+      "fieldConfig": {
+        "Evergreen": {
+          "options": [
+            "UPS",
+            "Battery"
+          ]
+        }
+      },
+      "defaultName": "Tasks",
+      "templates": [
+        "Projects - Demo Project/Why You Should Be Taking More Notes.md",
+        "Projects - Demo Project/Test.md"
+      ],
+      "excludedNotes": [],
+      "isDefault": true,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "DR Documents/Projects",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "width": 328,
+                "hide": true
+              },
+              "image": {
+                "hide": true
+              }
+            },
+            "orderFields": [
+              "name",
+              "path",
+              "image",
+              "Evergreen",
+              "published",
+              "status",
+              "tags",
+              "weight"
+            ]
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "26f18165-3e5d-44cb-ad56-a1ea5dfb6c4f",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "193d91df-a9aa-4569-91f1-4a8d0e8bd3cf",
+      "name": "UPS-Canada"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Projects - Demo Project",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "0cd4263e-f828-435a-98da-31c534f9339d",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "fac391d4-2fed-4d0a-87e5-587b40f14180",
+      "name": "Projects - Demo Project"
     }
   ],
   "archives": [],
@@ -128,7 +391,12 @@
     "frontmatter": {
       "quoteStrings": "PLAIN"
     },
-    "commands": [],
+    "commands": [
+      {
+        "project": "70f4e1b4-f7f3-4e65-b0f3-663b6314f400",
+        "view": "4b0f5623-a582-4b78-b1fd-ab666b2283ff"
+      }
+    ],
     "linkBehavior": "open-editor"
   }
 }
